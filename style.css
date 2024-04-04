@@ -1,0 +1,13 @@
+/* mudar a cor da fundo do site*/
+body{
+    background-color: rgb(29, 24, 114);
+}
+h1{
+    color: rgb(122, 122, 211);
+}
+.texto{
+    color: hotpink;
+}
+#rodape{
+    color: blue;
+}
